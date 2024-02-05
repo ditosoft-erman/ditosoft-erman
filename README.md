@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditosot-erman&label=Profile%20views&color=0e75b6&style=flat" alt="ditosot-erman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditosot-erman" alt="ditosot-erman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditosot-erman" alt="ditosoft-erman" /></a> </p>
 
 - 🔭 I’m currently working on **invitasyonph**
 
