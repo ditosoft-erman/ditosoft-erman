@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **invitasyonph**
 
-- 🌱 I’m currently learning **Angular, ReactJS, TypeScript**
+- 🌱 I’m currently learning **Angular, ReactJS, TypeScript, NextJs**
 
 - 📫 How to reach me **ermanfaminiano020@gmail.com**
 
