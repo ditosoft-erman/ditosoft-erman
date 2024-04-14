@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Erman Louie A. Faminiano</h1>
 <h3 align="center">A front end developer based from Philippines</h3>
+[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/ditosoft-erman)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditosoft-erman&label=Profile%20views&color=0e75b6&style=flat" alt="ditosoft-erman" /> </p>
 
