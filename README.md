@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Erman Louie A. Faminiano</h1>
+ <h1 align="center">Ciao 👋, I'm Erman Louie A. Faminiano</h1>
 <h3 align="center">A front end developer based from Philippines</h3>
 
 
