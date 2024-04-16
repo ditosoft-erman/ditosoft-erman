@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditosoft-erman&label=Profile%20views&color=0e75b6&style=flat" alt="ditosoft-erman" /> </p>
 
 
-
-- 🔭 I’m currently working on **invitasyonph**
-
 - 🌱 I’m currently learning **Angular, ReactJS, TypeScript, NextJs**
 
 - 📫 How to reach me **ermanfaminiano020@gmail.com**
