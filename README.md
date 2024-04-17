@@ -18,6 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditosoft-erman&" alt="ditosoft-erman" /></p>
 
-<img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[ditosoft-erman]&theme=github_dark" alt="[Erman Faminiano]'s GitHub Stats"/>
+</div>
 
