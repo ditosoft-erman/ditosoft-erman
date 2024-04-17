@@ -19,6 +19,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditosoft-erman&" alt="ditosoft-erman" /></p>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[ditosoft-erman]&theme=github_dark" alt="[Erman Faminiano]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ditosoft-erman&theme=github_dark" alt="Erman Faminiano's GitHub Stats"/>
 </div>
 
