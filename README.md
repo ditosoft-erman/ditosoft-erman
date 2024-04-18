@@ -7,7 +7,7 @@
  🌱 I’m currently learning **Angular, ReactJS, TypeScript, NextJs, Python, Java, Yaml, ExpressJs, MongoDB, YAML**
 📫 How to reach me **ermanfaminiano020@gmail.com**
 
-<h3>Connect with me:</h3>
+
 
 
 
