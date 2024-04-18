@@ -21,7 +21,7 @@
 
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditosoft-erman&" alt="ditosoft-erman" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditosoft-erman&" alt="ditosoft-erman" /></p>
+
 
 
 
