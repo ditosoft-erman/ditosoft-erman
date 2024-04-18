@@ -4,7 +4,7 @@
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditosoft-erman&label=Profile%20views&color=0e75b6&style=flat" alt="ditosoft-erman" /> </p>
 
- 🌱 I’m currently learning **Angular, ReactJS, TypeScript, NextJs**
+ 🌱 I’m currently learning **Angular, ReactJS, TypeScript, NextJs, Python, Java**
 📫 How to reach me **ermanfaminiano020@gmail.com**
 
 <h3>Connect with me:</h3>
