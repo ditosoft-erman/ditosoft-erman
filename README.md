@@ -1,5 +1,5 @@
 <div align="center" style="background-color: red" >
- <h1 align="center">Hola 👋, I'm Erman Louie A. Faminiano</h1>
+ <h1 align="center">Hola 👋, I'm Erman Louie Avila Faminiano</h1>
  <h1 align="center">22 years old</h1>
 <h3 align="center">A front end developer based from Philippines</h3>
 
